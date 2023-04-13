@@ -1,0 +1,17 @@
+Explanation about pictures:
+img -- original image The original image of the face taken by the mobile phone, here is the iphoneXS Max, an Apple mobile phone from 5 years ago
+Wrinkle -- Wrinkle detection map, using dark green and light green to draw deep lines and light lines respectively, including 12 areas of 7 types
+red -- Sensitive muscle detection chart, the darker the red area, the more sensitive the skin, the bloodshot skin is obvious/there are acne, pimples and closed nodules
+brown -- Pigmentation detection chart, the darker the brown area, the more serious the pigmentation, and the more yellow the spots/skin
+pore_shiny_blackhead -- The pore blackhead oil light detection map is drawn in three colors respectively. The larger the circle of the pore blackhead, the larger the pore blackhead
+Water -- moisture detection map, the darker the blue, the more water shortage
+The -- roughness texture detection map indicates the roughness of the skin, and the more lines, the rougher the skin
+
+关于图片的说明：
+img -- 原图 手机拍摄的人脸原图，这里用的是iphoneXS Max，5年前的苹果手机
+wrinkle -- 皱纹检测图 分别用深绿和浅绿色将深纹、浅纹画了出来，包括7种类型12个区域
+red -- 敏感肌检测图 红色越深的地方表示皮肤越敏感，皮肤血丝明显/存在痤疮痘痘闭口结节
+brown -- 色素沉着检测图 棕色越深的地方表示色素沉着越严重，色斑/皮肤越发黄
+pore_shiny_blackhead -- 毛孔黑头油光检测图  分别用三种颜色画了出来，毛孔黑头的圈圈越大表示毛孔黑头越大
+water -- 水分检测图 蓝色越深的地方表示越缺水
+roughness -- 纹理检测图 表示皮肤粗糙程度，线条越多表示皮肤越粗糙
